@@ -28,3 +28,7 @@ https://github.com/satyasundar/erav3-s5.git
 ### 6. Optimsed MNIST model with 99.4% accuracy(15k parameter, 20 epoch)
 
 https://github.com/satyasundar/erav3-s6.git
+
+### 7. Optimised MNIST model - Progressively (Final: 99.4% accuracy, 7.8k parameters, 7th Epoch onwards)
+
+https://github.com/satyasundar/erav3-s7
