@@ -32,3 +32,7 @@ https://github.com/satyasundar/erav3-s6.git
 ### 7. Optimised MNIST model - Progressively (Final: 99.4% accuracy, 7.8k parameters, 7th Epoch onwards)
 
 https://github.com/satyasundar/erav3-s7
+
+### 8. CIFAR 10 - Model : 85% Accuracy on 150K paramaeters
+
+https://github.com/satyasundar/erav3-s8
