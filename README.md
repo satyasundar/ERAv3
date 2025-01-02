@@ -36,3 +36,7 @@ https://github.com/satyasundar/erav3-s7
 ### 8. CIFAR 10 - Model : 85% Accuracy on 150K paramaeters
 
 https://github.com/satyasundar/erav3-s8
+
+### 9. Train IMagenet1k dataset with resnet50 model from scratch
+
+https://github.com/satyasundar/erav3-S9
