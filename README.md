@@ -40,3 +40,7 @@ https://github.com/satyasundar/erav3-s8
 ### 9. Train IMagenet1k dataset with resnet50 model from scratch
 
 https://github.com/satyasundar/erav3-S9
+
+### 11. Make an ODIA tokenizer from scratch using BPE
+
+https://github.com/satyasundar/erav3-s11
