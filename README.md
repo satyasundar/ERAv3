@@ -44,3 +44,7 @@ https://github.com/satyasundar/erav3-S9
 ### 11. Make an ODIA tokenizer from scratch using BPE
 
 https://github.com/satyasundar/erav3-s11
+
+### 12. Create a Decoder Only Transformer to trin on Shakespeare style word generation
+
+https://github.com/satyasundar/erav3-s12
