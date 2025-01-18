@@ -45,6 +45,6 @@ https://github.com/satyasundar/erav3-S9
 
 https://github.com/satyasundar/erav3-s11
 
-### 12. Create a Decoder Only Transformer to trin on Shakespeare style word generation
+### 12. Create a Decoder Only Transformer to generate Shakespeare style content
 
 https://github.com/satyasundar/erav3-s12
