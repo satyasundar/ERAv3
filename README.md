@@ -48,3 +48,7 @@ https://github.com/satyasundar/erav3-s11
 ### 12. Create a Decoder Only Transformer to generate Shakespeare style content
 
 https://github.com/satyasundar/erav3-s12
+
+### Docker deployment of a model and inference from another docker
+
+https://github.com/satyasundar/erav3-s14
