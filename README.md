@@ -49,6 +49,10 @@ https://github.com/satyasundar/erav3-s11
 
 https://github.com/satyasundar/erav3-s12
 
-### Docker deployment of a model and inference from another docker
+### 13. SmolLMv2 Based Text Generator
+
+https://github.com/satyasundar/erav3-s13
+
+### 14. Docker deployment of a model and inference from another docker
 
 https://github.com/satyasundar/erav3-s14
